@@ -1,1 +1,1 @@
-### Repositório criado para atividade em questão da disciplina Prática Integradora de Desenvolvimento de Apps.
+#### Repositório para postagens de atividades da disciplina Prática Integradora de Desenvolvimento de Apps.
